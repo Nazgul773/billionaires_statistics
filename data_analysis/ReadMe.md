@@ -1,5 +1,9 @@
 # Billionaires Statistics
-The dataset provides comprehensive information about notable individuals and billionaires worldwide, encompassing details such as their ranking, final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with, offering a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
+Embark on a comprehensive journey into the world of global billionaires through a two-step process. In the initial phase, the dataset undergoes rigorous cleaning, focusing on standardizing column names, handling missing data, addressing duplicates, and managing outliers. This ensures the dataset's accuracy and reliability for subsequent analysis. The refined dataset is then stored for further exploration in the second step, where an in-depth Exploratory Data Analysis (EDA) unfolds.
+
+This EDA project delves into the nuances of global billionaire data, unveiling patterns in demographics, examining wealth distribution across countries/cities, and exploring correlations between economic indicators and the billionaire landscape. The analysis employs various visualizations, including scatterplots, histograms, and heatmaps, providing a nuanced understanding of the intricate relationships within the dataset.
+
+This dataset provides comprehensive information about notable billionaires worldwide, encompassing details such as their ranking based on final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with, offering a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
 
 ## Feature- Descriptions:
 #### rank 
