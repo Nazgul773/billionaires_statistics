@@ -1,47 +1,4 @@
 rank,final_worth_usd,person_name,age,country,city,industries,wealth_source,gender,life_expectancy_country,gross_tertiary_education_enrollment_country,gross_primary_education_enrollment_country,gdp_country_usd,total_tax_rate_country,population_country
-1,211000,Bernard Arnault & family,74.0,France,Paris,Fashion & Retail,Inherited/Unearned,M,82.5,65.6,102.5,2715518274227.0,60.7,67059887.0
-2,180000,Elon Musk,51.0,United States,Austin,Automotive,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-3,114000,Jeff Bezos,59.0,United States,Medina,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-4,107000,Larry Ellison,78.0,United States,Lanai,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-5,106000,Warren Buffett,92.0,United States,Omaha,Finance & Investments,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-6,104000,Bill Gates,67.0,United States,Medina,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-7,94500,Michael Bloomberg,81.0,United States,New York,Media & Entertainment,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-8,93000,Carlos Slim Helu & family,83.0,Mexico,Mexico City,Telecom,Self-Made,M,75.0,40.2,105.8,1258286717125.0,55.1,126014024.0
-9,83400,Mukesh Ambani,65.0,India,Mumbai,Diversified,Inherited/Unearned,M,69.4,28.1,113.0,2611000000000.0,49.7,1366417754.0
-10,80700,Steve Ballmer,67.0,United States,Hunts Point,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-11,80500,Francoise Bettencourt Meyers & family,69.0,France,Paris,Fashion & Retail,Inherited/Unearned,F,82.5,65.6,102.5,2715518274227.0,60.7,67059887.0
-12,79200,Larry Page,50.0,United States,Palo Alto,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-13,77300,Amancio Ortega,87.0,Spain,La Coruna,Fashion & Retail,Self-Made,M,83.3,88.9,102.7,1394116310769.0,47.0,47076781.0
-14,76000,Sergey Brin,49.0,United States,Los Altos,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-15,68000,Zhong Shanshan,68.0,China,Hangzhou,Food & Beverage,Self-Made,M,77.0,50.6,100.2,19910000000000.0,59.2,1397715000.0
-16,64400,Mark Zuckerberg,38.0,United States,Palo Alto,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-17,59000,Charles Koch & family,87.0,United States,Wichita,Diversified,Inherited/Unearned,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-17,59000,Julia Koch & family,60.0,United States,New York,Diversified,Inherited/Unearned,F,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-19,58800,Jim Walton,74.0,United States,Bentonville,Fashion & Retail,Inherited/Unearned,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-20,57600,Rob Walton & family,78.0,United States,Bentonville,Fashion & Retail,Inherited/Unearned,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-21,56700,Alice Walton,73.0,United States,Fort Worth,Fashion & Retail,Inherited/Unearned,F,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-22,54400,David Thomson & family,65.0,Canada,Toronto,Media & Entertainment,Inherited/Unearned,M,81.9,68.9,100.9,1736425629520.0,24.5,36991981.0
-23,50100,Michael Dell,58.0,United States,Austin,Technology,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-24,47200,Gautam Adani,60.0,India,Ahmedabad,Diversified,Self-Made,M,69.4,28.1,113.0,2611000000000.0,49.7,1366417754.0
-25,45100,Phil Knight & family,85.0,United States,Hillsboro,Fashion & Retail,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-26,45000,Zhang Yiming,39.0,China,Beijing,Technology,Self-Made,M,77.0,50.6,100.2,19910000000000.0,59.2,1397715000.0
-27,42900,Dieter Schwarz,83.0,Germany,Neckarsulm,Fashion & Retail,Inherited/Unearned,M,80.9,70.2,104.0,3845630030824.0,48.8,83132799.0
-28,40100,François Pinault & family,86.0,France,Paris,Fashion & Retail,Self-Made,M,82.5,65.6,102.5,2715518274227.0,60.7,67059887.0
-29,39100,Klaus-Michael Kuehne,85.0,Switzerland,Schindellegi,Logistics,Inherited/Unearned,M,83.6,59.6,105.2,703082435360.0,28.8,8574832.0
-30,38900,Giovanni Ferrero,58.0,Belgium,Brussels,Food & Beverage,Inherited/Unearned,M,81.6,79.7,103.9,529606710418.0,55.4,11484055.0
-31,38300,Jacqueline Mars,83.0,United States,The Plains,Food & Beverage,Inherited/Unearned,F,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-31,38300,John Mars,87.0,United States,Jackson,Food & Beverage,Inherited/Unearned,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-34,35300,Ma Huateng,51.0,China,Shenzhen,Technology,Self-Made,M,77.0,50.6,100.2,19910000000000.0,59.2,1397715000.0
-35,35000,Miriam Adelson & family,77.0,United States,Las Vegas,Gambling & Casinos,Inherited/Unearned,F,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-35,35000,Ken Griffin,54.0,United States,Miami,Finance & Investments,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-37,34700,Mark Mateschitz,30.0,Austria,Salzburg,Food & Beverage,Inherited/Unearned,M,81.6,85.1,103.1,446314739528.0,51.4,8877067.0
-38,33400,Robin Zeng,54.0,China,Ningde,Automotive,Self-Made,M,77.0,50.6,100.2,19910000000000.0,59.2,1397715000.0
-39,32600,Tadashi Yanai & family,74.0,Japan,Tokyo,Fashion & Retail,Self-Made,M,84.2,63.2,98.8,5081769542380.0,46.7,126226568.0
-40,32100,Len Blavatnik,65.0,United Kingdom,London,Diversified,Self-Made,M,81.3,60.0,101.2,2827113184696.0,30.6,66834405.0
-41,31600,Alain Wertheimer,74.0,United States,New York,Fashion & Retail,Inherited/Unearned,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-41,31600,Gerard Wertheimer,72.0,United States,New York,Fashion & Retail,Inherited/Unearned,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
-43,31200,Gianluigi Aponte,82.0,Switzerland,Geneva,Logistics,Self-Made,M,83.6,59.6,105.2,703082435360.0,28.8,8574832.0
-43,31200,Rafaela Aponte-Diamant,78.0,Switzerland,Geneva,Logistics,Self-Made,F,83.6,59.6,105.2,703082435360.0,28.8,8574832.0
 45,30200,Colin Zheng Huang,43.0,China,Shanghai,Technology,Self-Made,M,77.0,50.6,100.2,19910000000000.0,59.2,1397715000.0
 46,29700,Reinhold Wuerth & family,87.0,Germany,Kuenzelsau,Manufacturing,Self-Made,M,80.9,70.2,104.0,3845630030824.0,48.8,83132799.0
 48,28500,Jeff Yass,64.0,United States,Haverford,Finance & Investments,Self-Made,M,78.5,88.2,101.8,21427700000000.0,36.6,328239523.0
