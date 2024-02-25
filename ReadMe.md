@@ -50,7 +50,7 @@ The analysis will delve into comprehensive information about notable billionaire
 
 <a id="data_source"></a>
 ## Data Source
-The dataset for this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset), providing a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
+The dataset for this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) from the year 2023, providing a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
 
 <a id="license"></a>
 ## License
