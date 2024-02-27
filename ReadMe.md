@@ -6,7 +6,9 @@
 - **[Introduction](#introduction)** <br>
 - **[Objectives of the Analysis](#analysis_objectives)** <br>
 - **[Scope of the Analysis](#analysis_scope)** <br>
-- **[Data Source](#data_source)** <br> 
+- **[Results](#results)** <br>
+- **[Data Source and Acknowledgments](#data_source)** <br>
+- **[Sample Visualizations](#sample_visuals)** <br>
 - **[License](#license)** <br> 
 
 <a id="getting_started"></a>
@@ -48,9 +50,32 @@ This EDA project aims to unveil patterns in demographics, examine wealth distrib
 ## Scope of the Analysis
 The analysis will delve into comprehensive information about notable billionaires worldwide, encompassing details such as their ranking based on final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with.
 
+<a id="results"></a>
+## Results
+- Demographic patterns and age distribution insights.
+- Wealth distribution across countries/cities.
+- Correlations between economic indicators and the billionaire landscape.
+- Notable industry trends among billionaires.
+
 <a id="data_source"></a>
-## Data Source
-The dataset for this analysis is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) from the year 2023, providing a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
+## Data Source and Acknowledgments
+
+The dataset for this analytics project is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) from the year 2023, providing a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
+
+### Acknowledgments
+
+Special thanks to [Kaggle](https://www.kaggle.com) for providing the dataset, as well as:
+
+- [Pandas](https://pandas.pydata.org/) for its powerful data manipulation capabilities, and
+- [Seaborn](https://seaborn.pydata.org/) for its contribution to insightful data visualization.
+
+These tools have been invaluable in conducting a thorough exploratory data analysis and deriving meaningful insights from the billionaire statistics dataset.
+
+<a id="sample_visuals"></a>
+## Sample Visualizations
+
+![Sample Visualization 1](images/media/univariate_analysis/Approximate_Distribution_of_Billionaires_Final_Worth_Worldwide_U.png)
+![Sample Visualization 2](media/multivariate_analysis/Relative_Distribution_of_Billionaires_by_Industry_Age_and_Gender_Worldwide_M.png)
 
 <a id="license"></a>
 ## License
