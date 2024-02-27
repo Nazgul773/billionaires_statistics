@@ -19,7 +19,7 @@ To get started with this project, follow the steps below:
 
 Ensure you have the following installed on your local machine:
 
-- [Python](https://www.python.org/) (version 3.9/3.10 recommended)
+- [Python](https://www.python.org/downloads/release/python-390/) (version 3.9 recommended)
 - [Jupyter Notebook](https://jupyter.org/)
 
 ### Configuration
