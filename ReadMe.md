@@ -19,8 +19,8 @@ To get started with this project, follow the steps below:
 
 Ensure you have the following installed on your local machine:
 
-- Python (3.9)
-- Jupyter Notebook
+- [Python](https://www.python.org/) (version 3.9/3.10 recommended)
+- [Jupyter Notebook](https://jupyter.org/)
 
 ### Configuration
 
@@ -29,15 +29,29 @@ Ensure you have the following installed on your local machine:
    ```bash
    git clone https://github.com/Nazgul773/billionaires_statistics.git
 
-2. Install the required Python packages in your virtual environment:
+2. Set up a virtual environment (optional but recommended):
+   ```bash
+   # Create a virtual environment (optional but recommended)
+   python -m venv venv
+   ```
+   ```bash
+   # Activate the virtual environment
+   source venv/bin/activate   # For Linux/macOS
+   ```
+   ```bash
+   .\venv\Scripts\activate    # For Windows
+   ```
+3. Install the required Python packages:
    ```bash
    pip install pandas
    ```
    ``` bash
    pip install seaborn
    ```
-   
-   <br>
+4. Launch the Notebook:
+   ``` bash
+   jupyter notebook billionaires_statistics.ipynb
+   ```
 <a id="introduction"></a>
 ## Introduction 
 Embark on a comprehensive journey into the world of global billionaires through a two-step process. In the initial phase, the dataset undergoes rigorous cleaning, focusing on standardizing column names, handling missing data, addressing duplicates, and managing outliers. This ensures the dataset's accuracy and reliability for subsequent analysis. The refined dataset is then stored for further exploration in the second step, where an in-depth Exploratory Data Analysis (EDA) unfolds.
