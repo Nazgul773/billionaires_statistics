@@ -31,7 +31,7 @@ Ensure you have the following installed on your local machine:
 
 2. Set up a virtual environment (optional but recommended):
    ```bash
-   # Create a virtual environment (optional but recommended)
+   # Create a virtual environment
    python -m venv venv
    ```
    ```bash
