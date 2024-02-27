@@ -65,7 +65,7 @@ This EDA project aims to unveil patterns in demographics, examine wealth distrib
 The analysis will delve into comprehensive information about notable billionaires worldwide, encompassing details such as their ranking based on final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with.
 
 <a id="results"></a>
-## Results
+## Results (Just an overview about main topics so far)
 - Demographic patterns and age distribution insights.
 - Wealth distribution across countries/cities.
 - Correlations between economic indicators and the billionaire landscape.
