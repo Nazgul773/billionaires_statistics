@@ -65,11 +65,29 @@ This EDA project aims to unveil patterns in demographics, examine wealth distrib
 The analysis will delve into comprehensive information about notable billionaires worldwide, encompassing details such as their ranking based on final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with.
 
 <a id="results"></a>
-## Results (Just an overview about main topics so far)
-- Demographic patterns and age distribution insights.
-- Wealth distribution across countries/cities.
-- Correlations between economic indicators and the billionaire landscape.
-- Notable industry trends among billionaires.
+## Results 
+### Wealth Distribution
+- The dataset comprises 2,384 billionaires with a mean net worth of approximately $4.77 billion, ranging from $1 billion to $211 billion.
+- The top 5 industries dominating the billionaire landscape are Finance & Investments, Technology, Manufacturing, Fashion & Retail, and Healthcare, collectively representing around 56.38% of the total billionaires.
+
+### Demographics
+- Age Distribution: The age of billionaires ranges from 18 to 101 years, with a mean age of 64.99 years. The majority fall within the 56 to 74 age range.
+- Gender Disparity: Male billionaires significantly outnumber female billionaires, constituting approximately 88.21% of the total billionaires.
+
+### Self-Made Success
+- The majority of billionaires are self-made, representing approximately 70.42% of the total billionaires.
+
+### Top 5 Countries and Wealth Source Distribution
+- The United States, China, India, Germany, and Russia are notable countries in terms of billionaire count.
+  - In the United States, 537 billionaires are self-made, while 213 inherited their wealth.
+  - China has 489 self-made billionaires and 15 with inherited wealth.
+  - India, Germany, and Russia also showcase varying patterns of inherited and self-made billionaires.
+
+### Correlation Analysis
+- Net worth shows positive correlations with tertiary education enrollment and age, while it has negative correlations with country population and total tax rate.
+- Age exhibits negative correlations with country population and total tax rate.
+- Life expectancy in a country correlates positively with gross tertiary education enrollment and negatively with country population and total tax rate.
+- Gross tertiary education enrollment shows positive correlations with GDP and negative correlations with country population and total tax rate.
 
 <a id="data_source"></a>
 ## Data Source and Acknowledgments
