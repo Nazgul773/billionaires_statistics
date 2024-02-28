@@ -108,6 +108,7 @@ These tools have been invaluable in conducting a thorough exploratory data analy
 
 ![Sample Visualization 1](media/univariate_analysis/Approximate_Distribution_of_Billionaires_Final_Worth_Worldwide_U.png)
 ![Sample Visualization 2](media/multivariate_analysis/Relative_Distribution_of_Billionaires_by_Industry_Age_and_Gender_Worldwide_M.png)
+![Sample Visualization 3](media/multivariate_analysis/Billionaires_Correlations_between_Economic_and_Demographic_Indicators_Worldwide_M.png)
 
 <a id="license"></a>
 ## License
