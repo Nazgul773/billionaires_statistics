@@ -6,8 +6,8 @@
 - **[Introduction](#introduction)** <br>
 - **[Objectives of the Analysis](#analysis_objectives)** <br>
 - **[Scope of the Analysis](#analysis_scope)** <br>
-- **[Results](#results)** <br>
 - **[Data Source and Acknowledgments](#data_source)** <br>
+- **[Results](#results)** <br>
 - **[Sample Visualizations](#sample_visuals)** <br>
 - **[License](#license)** <br> 
 
@@ -64,6 +64,20 @@ This EDA project aims to unveil patterns in demographics, examine wealth distrib
 ## Scope of the Analysis
 The analysis will delve into comprehensive information about notable billionaires worldwide, encompassing details such as their ranking based on final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with.
 
+<a id="data_source"></a>
+## Data Source and Acknowledgments
+
+The dataset for this analytics project is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) from the year 2023, providing a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
+
+### Acknowledgments
+
+Special thanks to [Kaggle](https://www.kaggle.com) for providing the dataset, as well as:
+
+- [Pandas](https://pandas.pydata.org/) for its powerful data manipulation capabilities, and
+- [Seaborn](https://seaborn.pydata.org/) for its contribution to insightful data visualization.
+
+These tools have been invaluable in conducting a thorough exploratory data analysis and deriving meaningful insights from the billionaire statistics dataset.
+
 <a id="results"></a>
 ## Results 
 ### Wealth Distribution
@@ -88,20 +102,6 @@ The analysis will delve into comprehensive information about notable billionaire
 - Age exhibits negative correlations with country population and total tax rate.
 - Life expectancy in a country correlates positively with gross tertiary education enrollment and negatively with country population and total tax rate.
 - Gross tertiary education enrollment shows positive correlations with GDP and negative correlations with country population and total tax rate.
-
-<a id="data_source"></a>
-## Data Source and Acknowledgments
-
-The dataset for this analytics project is sourced from [Kaggle](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset) from the year 2023, providing a rich resource for in-depth analysis of wealth distribution and socioeconomic factors.
-
-### Acknowledgments
-
-Special thanks to [Kaggle](https://www.kaggle.com) for providing the dataset, as well as:
-
-- [Pandas](https://pandas.pydata.org/) for its powerful data manipulation capabilities, and
-- [Seaborn](https://seaborn.pydata.org/) for its contribution to insightful data visualization.
-
-These tools have been invaluable in conducting a thorough exploratory data analysis and deriving meaningful insights from the billionaire statistics dataset.
 
 <a id="sample_visuals"></a>
 ## Sample Visualizations
