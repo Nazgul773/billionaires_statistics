@@ -5,7 +5,6 @@
 - **[Getting Started](#getting_started)** <br>
 - **[Introduction](#introduction)** <br>
 - **[Objectives of the Analysis](#analysis_objectives)** <br>
-- **[Scope of the Analysis](#analysis_scope)** <br>
 - **[Data Source and Acknowledgments](#data_source)** <br>
 - **[Results](#results)** <br>
 - **[Sample Visualizations](#sample_visuals)** <br>
@@ -58,11 +57,7 @@ Embark on a comprehensive journey into the world of global billionaires through 
 
 <a id="analysis_objectives"></a>
 ## Objectives of the Analysis
-This EDA project aims to unveil patterns in demographics, examine wealth distribution across countries/cities, and explore correlations between economic indicators and the billionaire landscape. Specific aspects like age distribution, wealth sources, regional patterns, and industry trends will be thoroughly investigated.
-
-<a id="analysis_scope"></a>
-## Scope of the Analysis
-The analysis will delve into comprehensive information about notable billionaires worldwide, encompassing details such as their ranking based on final net worth, industry category, personal attributes, country of residence, and various economic indicators for the countries they are associated with.
+This EDA project aims to uncover patterns in demographics, examine global wealth distribution among billionaires, and investigate correlations between economic indicators and the billionaire landscape. The comprehensive analysis will cover key details, including age distribution, regional patterns, industry trends, and various economic indicators associated with notable billionaires worldwide.
 
 <a id="data_source"></a>
 ## Data Source and Acknowledgments
