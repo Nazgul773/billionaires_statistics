@@ -8,7 +8,7 @@
 #### personName
 - full name
 #### age
-- billionaire's age
+- billionaire's age in years
 #### country
 - country of residence
 #### city
