@@ -42,10 +42,7 @@ Ensure you have the following installed on your local machine:
    ```
 3. Install the required Python packages:
    ```bash
-   pip install pandas
-   ```
-   ``` bash
-   pip install seaborn
+   pip install pandas matplotlib seaborn
    ```
 4. Launch the Notebook:
    ``` bash
